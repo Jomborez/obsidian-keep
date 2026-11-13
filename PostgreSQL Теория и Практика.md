@@ -6,7 +6,7 @@
 
 Контрольные суммы посмотреть, только когда сервер остановлен --
 
-bash
+bash   
 
 sudo ./pg_checksums -e -D /var/lib/postgresql/17/main #включить подсчёт
 
