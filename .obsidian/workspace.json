@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "PostgreSQL Теория и Практика.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "PostgreSQL Теория и Практика.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -209,7 +209,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e57bb647107976e1",
+  "active": "19de5fb7ed4cf215",
   "lastOpenFiles": [
     "Без названия.md",
     "Pasted image 20261113163944.png",
