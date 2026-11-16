@@ -173,9 +173,9 @@ CREATE SCHEMA app;
 ```psql
 SHOW search_path;
 ```
-Можно перезаписать эту переменную:
+Можно перезаписать эту переменную на уровне базы данных.
 ```psql 
-SET search_path = publick,app;
+ALTER DATABASE my_base SET search_path = public,app;
 ```
 Теперь `SELECT * from my_table;` отработает успешно, главное **не перезапишите другие схемы** в пути поиска
 
